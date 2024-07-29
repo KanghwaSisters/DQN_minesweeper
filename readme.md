@@ -6,7 +6,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 
-> 💡 이 깃은 `240729` 부로 클론된 깃으로, 업데이트가 되지 않습니다.
+> 💡 이 깃은 `240729` 부로 클론된 깃으로, 업데이트가 되지 않습니다.  
 > [@Tonnonssi/-RL-Minesweeper.git](https://github.com/Tonnonssi/-RL-Minesweeper.git)에서 추가적인 내용을 확인해주세요. 
 
 이 프로젝트는 DQN 강화학습 방법론을 사용해 지뢰찾기를 풀어내는 것을 목표로 한다. 
